@@ -91,7 +91,7 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/NeerajGodiyal/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/NeerajGodiyal/count.svg" alt="NeerajGodiyal" /></td>
   </tr>
 </table>
 
