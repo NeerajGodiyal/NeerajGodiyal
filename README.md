@@ -12,8 +12,8 @@
         
    <a href="https://devcard.link/VbgaAz " target="_blank">
     <img
-      width="1600"
-         height="3500"
+      width="160"
+         height="150"
       align="right"
       src="https://raw.githubusercontent.com/NeerajGodiyal/NeerajGodiyal/1a56af12e82f404f936f881cde40c8ea0b768340/NeerajGodiyal/svg.svg"
     />
