@@ -19,7 +19,7 @@
     />
   </a>
 </td>
-    <td valign="center">
+    <td valign="fit">
       
 🎓 Computer Science and Engineering at Graphic Era Hill University, India
       
