@@ -75,11 +75,10 @@
 
 ## Stats📈
 
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeerajGodiyal&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="NeerajGodiyal" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=NeerajGodiyal&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="NeerajGodiyal" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NeerajGodiyal&theme=highcontrast&hide_border=true" alt="NeerajGodiyal" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NeerajGodiyal&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajGodiyal&langs_count=10&layout=compact&show_icons=true&theme=radical)](https://github.com/NeerajGodiyal/github-readme-stats)
+
+
   
 
 <div align="left">
