@@ -25,11 +25,11 @@
       
 🌱 I am just exploring whatever interests me 
 
-💬 Ask me about anything :),may be i will tell something interesting
+💬 Ask me about anything :), may be i will tell something interesting
       
 📫 Reach out to me at: neerajgodiyal250@gmail.com
       
-⚡ Fun fact:idk,Google it!xD.
+⚡ Fun fact: idk, Google it! xD.
 
       
 
