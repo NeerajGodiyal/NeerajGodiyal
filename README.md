@@ -48,8 +48,7 @@
 <a href="https://www.linkedin.com/in/neeraj-godiyal-a402a018a/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.facebook.com/naj.godiyal.3" target="blank"><img src="https://img.icons8.com/color/35/000000/facebook.png"/></a>
 <a href="https://www.instagram.com/neerajgodiyal250/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
-<a href="https://dev.to/neeraj2">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Neeraj Anand's DEV Profile" height="22" width="22">
+
 </a>
       
 
