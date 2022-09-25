@@ -1,7 +1,6 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:NeerajGodiyal"></a>
- <p>
-   
+ <p> 
    # Hi, I'm Neeraj Godiyal <img src=" ">
 
 ## About Me🧑🏼‍💻
