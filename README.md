@@ -85,7 +85,8 @@
 
 ### snake grid
 
-![snake gif](https://github.com/NeerajGodiyal/NeerajGodiyal/blob/output/github-contribution-grid-snake.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/NeerajGodiyal/NeerajGodiyal/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/NeerajGodiyal/NeerajGodiyal/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
 
 ### Star❤️my repo if you like it!
 
