@@ -83,7 +83,6 @@
 
 <div align="left">
 
-### snake grid
 
 ![snake gif](https://github.com/NeerajGodiyal/NeerajGodiyal/blob/output/github-contribution-grid-snake.svg)
 
