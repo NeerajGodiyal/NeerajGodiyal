@@ -79,12 +79,14 @@
 
 
   
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+  
 
 <div align="left">
 
 
 ![snake gif](https://github.com/NeerajGodiyal/NeerajGodiyal/blob/output/github-contribution-grid-snake.svg)
+  
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 ### Star❤️my repo if you like it!
 
