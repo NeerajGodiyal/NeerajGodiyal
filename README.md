@@ -77,13 +77,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NeerajGodiyal&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajGodiyal&langs_count=10&layout=compact&show_icons=true&theme=radical)](https://github.com/NeerajGodiyal/github-readme-stats)
 
- <div align="center">
- 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/NeerajGodiyal-1nC0re/NeerajGodiyal-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/NeerajGodiyal-1nC0re/NeerajGodiyal-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+
   
-</div>
-  
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 <div align="left">
 
