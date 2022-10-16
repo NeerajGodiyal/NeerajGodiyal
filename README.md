@@ -50,8 +50,6 @@
 
 </a>
       
-
-
 </p>
     
 ## Technologies⚙️
