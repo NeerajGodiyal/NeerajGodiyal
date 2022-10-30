@@ -24,7 +24,7 @@
       
 🌱 I am just exploring whatever interests me 
 
-💬 Ask me about anything :), may be i will tell something you interesting
+💬 Ask me about anything :), may be i will tell you something interesting
       
 📫 Reach out to me at: neerajgodiyal250@gmail.com
       
