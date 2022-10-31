@@ -20,20 +20,20 @@
 </td>
     <td valign="center">
       
-🎓 Computer Science and Engineering at Graphic Era Hill University, India
+🎓 I'm currently in the Third Year of Engineering
       
-🌱 I am just exploring whatever interests me 
+🌱 Mostly, I deal with fullstack development but also dive into other fields like Machine Learning and Blockchain sometimes 
 
 💬 Ask me about anything :), may be i will tell you something interesting
-      
+
+⚽ Goals: To learn more programming languages and focus on writing cleaner and more efficient code
+
+💻 Right now I'm trying to explore more and more fields to learn more and get experience on different fields     
+ 
 📫 Reach out to me at: neerajgodiyal250@gmail.com
       
 ⚡ Fun fact: idk, Google it! xD.
-
-      
-
-    
-    
+ 
   </tr>
   </table>
    
