@@ -22,7 +22,7 @@
       
 🎓 I'm currently in the Third Year of Engineering
       
-🌱 Mostly, I deal with fullstack development but also dive into other fields like Machine Learning and Blockchain sometimes 
+🌱 Mostly, I deal with fullstack development but also dive into other fields like ML and Blockchain sometimes 
 
 💬 Ask me about anything :), may be i will tell you something interesting
 
