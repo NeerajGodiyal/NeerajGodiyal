@@ -85,6 +85,7 @@
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
   
 [![@neerajgodiyal's Holopin board](https://holopin.me/neerajgodiyal)](https://holopin.io/@neerajgodiyal)   
+[![@neerajgodiyal's Holopin board](https://holopin.me/neerajgodiyal)](https://holopin.io/@neerajgodiyal)
 
 ### Star❤️my repo if you like it!
 
