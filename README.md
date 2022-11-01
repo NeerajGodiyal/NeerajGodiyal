@@ -73,7 +73,7 @@
 ## Stats📈
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NeerajGodiyal&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-nzp4ivrq9-florianbussmann.vercel.app/api/wakatime?username=NeerajGodiyal&langs_count=6&layout=compact)
+[![Top Langs](https://api.github.com/search/repositories?q=language:Cirru)
 <img alt="Neeraj Godiyal's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=NeerajGodiyal&theme=dark" />
 
 
