@@ -24,7 +24,7 @@
       
 🌱 Mostly, I deal with fullstack development but also dive into other fields like ML and Blockchain sometimes 
 
-💬 Ask me about anything :), may be i will tell you something interesting
+💬 Ask me about anything :) may be i will tell you something interesting
 
 ⚽ Goals: To learn more programming languages and focus on writing cleaner and more efficient code
 
