@@ -38,7 +38,7 @@
   </table>
    
 ### 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NeerajGodiyal&theme=react-dark&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NeerajGodiyal&theme=tokyo-night)](https://github.com/NeerajGodiyal/github-readme-activity-graph)
    
 ## Connect With Me👋🏼
 
