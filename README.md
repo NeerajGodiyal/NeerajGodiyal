@@ -7,11 +7,7 @@
 
 <table>
   <tr>
-    <td >
-        
-   <a href="https://devcard.link/VbgaAz " target="_blank">
 
-  </a>
 </td>
     <td valign="center">
       
