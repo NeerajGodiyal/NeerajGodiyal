@@ -29,7 +29,7 @@
   </table>
    
 ### 
-(https://github-readme-activity-graph.vercel.app/graph?username=NeerajGodiyal&theme=dracula)](https://github.com/NeerajGodiyal/github-readme-activity-graph)
+[![Neeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NeerajGodiyal&theme=dracula)](https://github.com/NeerajGodiyal/github-readme-activity-graph)
 
 ## Connect With Me👋🏼
 
