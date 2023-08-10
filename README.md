@@ -10,12 +10,7 @@
     <td >
         
    <a href="https://devcard.link/VbgaAz " target="_blank">
-    <img
-      width="160"
-         height="150"
-      align="right"
-      src="https://raw.githubusercontent.com/NeerajGodiyal/NeerajGodiyal/5848ee540ee8f26e1d4b4965869bdf0d230d9274/svg.svg"
-    />
+
   </a>
 </td>
     <td valign="center">
