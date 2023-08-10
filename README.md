@@ -38,8 +38,7 @@
   </table>
    
 ### 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NeerajGodiyal&theme=react-dark)](https://github.com/NeerajGodiyal/github-readme-activity-graph)
-   
+(https://github-readme-stats.vercel.app/api?username=NeerajGodiyal&theme=dark&show_icons=true)  
 ## Connect With Me👋🏼
 
 <p align="left">  
