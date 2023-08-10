@@ -29,7 +29,8 @@
   </table>
    
 ### 
-(https://github-readme-stats.vercel.app/api?username=NeerajGodiyal&theme=dark&show_icons=true)  
+(https://github-readme-activity-graph.vercel.app/graph?username=NeerajGodiyal&theme=dracula)](https://github.com/NeerajGodiyal/github-readme-activity-graph)
+
 ## Connect With Me👋🏼
 
 <p align="left">  
