@@ -11,19 +11,19 @@
 </td>
     <td valign="center">
       
-🎓 I'm currently in the Third Year of Engineering
+🎓 I'm currently in my third year of engineering.
       
-🌱 Mostly, I deal with fullstack development but also dive into other fields like ML and Blockchain sometimes 
+🌱 My primary focus is on full-stack development, but I also venture into other areas like machine learning and blockchain from time to time.
 
-💬 Ask me about anything :) may be i will tell you something interesting
+💬 Feel free to ask me anything; I might share something interesting!
 
-⚽ Goals: To learn more programming languages and focus on writing cleaner and more efficient code
+⚽ My goals include mastering more programming languages and honing my skills to write cleaner and more efficient code.
 
-💻 Right now I'm trying to explore more and more fields to learn more and get experience on different fields     
+💻 Currently, I'm on a journey of exploration, delving into various fields to expand my knowledge and gain experience. 
  
 📫 Reach out to me at: neerajgodiyal250@gmail.com
       
-⚡ Fun fact: idk, Google it! xD.
+⚡ Fun fact: If you're curious about something, don't hesitate to Google it! 😄
  
   </tr>
   </table>
