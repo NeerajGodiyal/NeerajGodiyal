@@ -70,8 +70,6 @@
 
 <div align="left">
 
-
-  
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
   
 [![@neerajgodiyal's Holopin board](https://holopin.me/neerajgodiyal)](https://holopin.io/@neerajgodiyal)   
