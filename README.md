@@ -23,7 +23,6 @@
  
 📫 Reach out to me at: neerajgodiyal250@gmail.com
       
-⚡ Fun fact: If you're curious about something, don't hesitate to Google it! 😄
  
   </tr>
   </table>
