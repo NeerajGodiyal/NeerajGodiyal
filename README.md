@@ -5,27 +5,7 @@
 
  About Me🧑🏼‍💻
 
-<table>
-  <tr>
 
-</td>
-    <td valign="center">
-      
-🎓 I'm currently in my third year of engineering.
-      
-🌱 My primary focus is on full-stack development, but I also venture into other areas like machine learning and blockchain from time to time.
-
-💬 Feel free to ask me anything; I might share something interesting!
-
-⚽ My goals include mastering more programming languages and honing my skills to write cleaner and more efficient code.
-
-💻 Currently, I'm on a journey of exploration, delving into various fields to expand my knowledge and gain experience. 
- 
-📫 Reach out to me at: neerajgodiyal250@gmail.com
-      
- 
-  </tr>
-  </table>
    
 ### 
 [![Neeraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NeerajGodiyal&theme=dracula)](https://github.com/NeerajGodiyal/github-readme-activity-graph)
