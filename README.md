@@ -1,8 +1,7 @@
 
  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:NeerajGodiyal"></a>
 
-# Hi, [I'm Neeraj Godiyal
-https://neerajgodiyal.vercel.app/ ]
+# Hi, I am  <a href="https://neerajgodiyal.vercel.app/">Neeraj Godiyal</a> 
 
 
 
