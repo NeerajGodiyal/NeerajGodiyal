@@ -52,13 +52,8 @@
   
 [![@neerajgodiyal's Holopin board](https://holopin.me/neerajgodiyal)](https://holopin.io/@neerajgodiyal)   
 
-### Star❤️my repo if you like it!
+
 
 </div>
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/NeerajGodiyal/count.svg" alt="NeerajGodiyal" /></td>
-  </tr>
-</table>
+
 
